@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["This is a exclusive bot for coffee house server !"];
+const statusMessages = [".gg/coffeehouse "];
 
 
 let currentIndex = 0;

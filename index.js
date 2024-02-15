@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching UNRAVEL"];
+const statusMessages = ["This is a exclusive bot for coffee house server !"];
 
 
 let currentIndex = 0;

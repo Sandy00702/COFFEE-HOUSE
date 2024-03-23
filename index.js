@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Itachi"];
+const statusMessages = ["Staring Shadow"];
 
 
 let currentIndex = 0;

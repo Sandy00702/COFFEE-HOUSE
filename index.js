@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Staring Shadow"];
+const statusMessages = ["gg.darkdynasty"];
 
 
 let currentIndex = 0;
